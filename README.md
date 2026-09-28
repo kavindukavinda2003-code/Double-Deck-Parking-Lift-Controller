@@ -25,7 +25,7 @@ The system uses a **Finite State Machine (FSM)**, digital logic circuits, sensor
 ## 🧩 System Modules
 
 The project consists of the following main modules:
-![Double-Deck Parking Lift Controller](kkkkk.png)
+![Double-Deck Parking Lift Controller](kkkkkk.png)
 
 * **Input Interface**
 * **Finite State Machine (FSM)**
